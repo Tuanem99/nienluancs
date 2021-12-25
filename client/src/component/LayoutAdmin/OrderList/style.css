@@ -1,0 +1,12 @@
+.table-order table thead tr th:nth-child(4) {
+    width: 20rem !important;
+}
+
+.table-order table thead tr th{
+    text-align: center;
+}
+
+
+.table-order  .table.dataTable td{
+    font-size: 1.2rem !important;
+}

@@ -1,0 +1,17 @@
+
+.table.dataTable thead>tr>th.sorting,
+.table.dataTable thead>tr>th.sorting_asc,
+.table.dataTable thead>tr>th.sorting_desc,
+thead
+{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.table.dataTable td {
+    font-size: 1.4rem !important;
+}
+.table.dataTable td:first-child{
+    text-align: center;
+    width: 70%;
+}

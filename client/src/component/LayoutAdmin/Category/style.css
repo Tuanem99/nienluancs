@@ -1,0 +1,19 @@
+
+.table.dataTable thead>tr>th.sorting,
+.table.dataTable thead>tr>th.sorting_asc,
+.table.dataTable thead>tr>th.sorting_desc,
+thead
+{
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+.table.dataTable td {
+    font-size: 1.4rem !important;
+    font-weight: 400;
+}
+
+.form-control-sm {
+    font-size: 1.6rem !important;
+
+}
